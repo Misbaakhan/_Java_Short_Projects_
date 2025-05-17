@@ -9,7 +9,7 @@ This repository contains a collection of small Java projects. Each project focus
 ## How to Run
 
 1. Clone the repository:https://github.com/Misbaakhan/_Java_Short_Projects_.git
-2. Navigate to the project directory:cd Java_Short_Projects
+2. Navigate to the project directory:cd _Java_Short_Projects
 3.  Compile and run the Java file: javac EmpSalaryUpdate.java
                                    java EmpSalaryUpdate
     Ensure you have Java installed (JDK).
